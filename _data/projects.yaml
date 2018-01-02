@@ -1,11 +1,11 @@
 - title: 期中小组设计
   url: 
-  image: https://github.com/kusumuxi/kusumuxi.github.io/blob/master/images/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E4%B8%9A%E3%80%82.png
+  image:https://raw.githubusercontent.com/kusumuxi/kusumuxi.github.io/master/images/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E4%B8%9A%E3%80%82.jpg
   completed: false
 
 - title: 崩三网页设计试做
   url: 
-  image: 
+  image:https://raw.githubusercontent.com/kusumuxi/kusumuxi.github.io/master/images/%E5%B4%A9%E5%9D%8F3.jpg 
   completed: true
 
 - title: 哔哔汗利利
@@ -19,7 +19,7 @@
   completed: true
 
 - title: 我的github
-  url:
-  image: 
+  url: https://github.com/kusumuxi
+  image:https://raw.githubusercontent.com/kusumuxi/kusumuxi.github.io/master/images/github.jpg 
   completed: false
 
