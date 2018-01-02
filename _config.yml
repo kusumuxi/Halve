@@ -1,6 +1,6 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
+title: kusumuxi的学习博客
+description: 网页设计，kusumuxi，掉头发
 url: https://kusumuxi.github.io/
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -33,7 +33,7 @@ sass:
 #google.plus:        username
 twitter:            username
 #facebook:           username
-github:             username
+github:kusumuxi.github.io             username
 stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
