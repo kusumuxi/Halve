@@ -3,6 +3,9 @@ layout: post
 title: kusumuxi的学习笔记（一）
 categories:
 - kusumuxi
+tags: 
+  - 学习笔记
+  - 搜索引擎
 ---
 
 kusumuxi是以为文学与传媒系，网络与新媒体专业的学生，这次笔记主要是讲基本引擎的搜索规则。
