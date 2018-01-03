@@ -1,7 +1,7 @@
 - title: 期中可视化小组作业
   url: https://kusumuxi.github.io/kusu.gitbub.io/
   image: images/期中作业。.jpg
-  completed: false
+  completed: true
 
 - title: 崩三网页设计试做
   url: http://www.bh3.com/index.php 
@@ -21,5 +21,5 @@
 - title: 我的github
   url: https://github.com/kusumuxi
   image: images/github.jpg 
-  completed: false
+  completed: true
 
