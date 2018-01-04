@@ -13,12 +13,12 @@
   image: https://raw.githubusercontent.com/kusumuxi/kusumuxi.github.io/master/images/bilibili.jpg
   completed: true
 
-- title: 可视化作品
-  url: 
+- title: 可视化作品期末作业
+  url: https://public.tableau.com/views/1_5301/1_2?:embed=y&:display_count=yes 
   image: 
   completed: true
 
-- title: 联系我
+- title: 联系我（最好别）
   url: https://github.com/kusumuxi
   image: images/github.jpg 
   completed: true
