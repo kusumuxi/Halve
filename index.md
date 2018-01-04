@@ -9,6 +9,6 @@ layout: home
 
 也可以通过这里来访问githob网站 [ GitHub](https://github.com).
 
-[.rwd通道](https://kusumuxi.github.io/swd)
-[.portfolio通道](https://kusumuxi.github.io/portfolio)
-[infovis.](https://kusumuxi.github.io/infovis)
+- [.rwd通道](https://kusumuxi.github.io/rwd)
+- [.portfolio通道](https://kusumuxi.github.io/portfolio)
+- [.infovis通道](https://kusumuxi.github.io/infovis)
