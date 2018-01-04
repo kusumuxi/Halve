@@ -2,7 +2,7 @@
 layout: page
 title: 网页设计
 description: "设计"
-permalink: /swd.html
+permalink: /rwd.html
 ---
 
 ## web系列笔记
