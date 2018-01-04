@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Posts
-description: "List of posts"
+title: 文章
+description: "离开"
 permalink: /posts.html
 ---
