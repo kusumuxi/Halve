@@ -1,6 +1,6 @@
 <div class="overlay">
   <ul class="portfolio-menu">
-    {% for item in site.data.portfolio %}
+    {% for item in site.data.projects %}
       {% capture image %}{{ item.image }}{% endcapture %}
       {% unless image contains 'http://' or image contains 'https://' %}
       {% capture image %}{{ site.url }}/{{ image }}{% endcapture %}
