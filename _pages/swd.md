@@ -7,7 +7,7 @@ permalink: /swd.html
 
 ## 网页试做
 
-[崩坏3](https://kusumuxi.github.io/kusu3.io/)
+[个人版崩坏3](https://kusumuxi.github.io/kusu3.io/)
 <!-- 根據 http://www.bh3.com/index.php  -->
 <html class="no-js" lang="zh-CN">
 	<head>
