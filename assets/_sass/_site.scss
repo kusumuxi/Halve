@@ -46,7 +46,7 @@ canvas {
   z-index: 0;
 }
 
-.portfolio-menu-icon {
+.projects-menu-icon {
   position: absolute;
   top: 30px;
   right: 30px;
@@ -151,7 +151,7 @@ canvas {
   right: 90px;
 }
 
-.portfolio-link {
+.projects-link {
   right: 20px;
 }
 
@@ -170,7 +170,7 @@ canvas {
   }
 }
 
-.portfolio-menu {
+.projects-menu {
   font-size: 0;
   height: 100%;
   > li {
@@ -720,7 +720,7 @@ canvas {
   .block-right {
     overflow-y: inherit;
   }
-  .portfolio-menu li {
+  .projects-menu li {
     width: 50% !important;
     height: 50% !important;
     float: left;
@@ -776,7 +776,7 @@ canvas {
   .section-title {
     font-size: 80px;
   }
-  .portfolio-menu li {
+  .projects-menu li {
     width: 100% !important;
     height: 50% !important;
   }
