@@ -1,6 +1,7 @@
 # Site
 title: kusumuxi的学习博客
 description:  网页设计，kusumuxi，掉头发
+affiliation: "中山大学南方学院 <a href = 'http://wcy.nfu.edu.cn/zh/教学教务/培养方案/网络与新媒体/'>网络与新媒体</a> 培养方案核心课程学期作品，由 <a href='http://wcy.nfu.edu.cn/zh/学院概况/师资队伍/廖汉腾/'>廖汉腾副教授</a> 指导"
 url: https://kusumuxi.github.io/
 logo: halve.png                                       # Site logo
 locale: en_US
